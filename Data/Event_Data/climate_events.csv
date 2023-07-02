@@ -1,0 +1,124 @@
+Weather and Climate Billion-Dollar Disasters to affect the U.S. from 2016-2022 (CPI-Adjusted)
+"Name","Disaster","Begin Date","End Date","Total CPI-Adjusted Cost (Millions of Dollars)","Deaths"
+"Southeast and Eastern Tornadoes (February 2016)","Severe Storm",20160222,20160224,1310.3,10
+"Texas and Louisiana Flooding (March 2016)","Flooding",20160308,20160312,2891.5,5
+"Southern Severe Weather (March 2016)","Severe Storm",20160317,20160318,1512.9,1
+"North Texas Hail Storm (March 2016)","Severe Storm",20160323,20160324,2581.0,0
+"North/Central Texas Hail Storm (April 2016)","Severe Storm",20160410,20160412,4338.2,0
+"Houston Flooding (April 2016)","Flooding",20160417,20160418,3371.8,8
+"South/Southeast Tornadoes (April 2016)","Severe Storm",20160426,20160502,2969.2,6
+"Plains Tornadoes and Central Severe Weather (May 2016)","Severe Storm",20160508,20160511,2132.5,2
+"Rockies/Central Tornadoes and Severe Weather (May 2016)","Severe Storm",20160521,20160526,1421.3,0
+"West Virginia Flooding and Ohio Valley Tornadoes (June 2016)","Flooding",20160622,20160624,1220.8,23
+"Rockies and Northeast Severe Weather (July 2016)","Severe Storm",20160728,20160730,1817.4,0
+"Louisiana Flooding (August 2016)","Flooding",20160812,20160815,12600.0,13
+"Hurricane Matthew (October 2016)","Tropical Cyclone",20161008,20161012,12300.0,49
+"Western/Southeast Wildfires (Summer-Fall 2016)","Wildfire",20160601,20161231,2969.8,21
+"West/Northeast/Southeast Drought (2016)","Drought",20160101,20161231,4338.8,0
+"Southern Tornado Outbreak and Western Storms (January 2017)","Severe Storm",20170120,20170122,1359.3,24
+"California Flooding (February 2017)","Flooding",20170208,20170222,1845.0,5
+"Central/Southeast Tornado Outbreak (March 2017)","Severe Storm",20170228,20170301,2203.4,6
+"Midwest Tornado Outbreak (March 2017)","Severe Storm",20170306,20170308,2654.7,2
+"Southeast Freeze (March 2017)","Freeze",20170314,20170316,1230.0,0
+"South/Southeast Severe Weather (March 2017)","Severe Storm",20170326,20170328,3287.9,0
+"Southeast Severe Weather and Tornadoes (April 2017)","Severe Storm",20170404,20170406,1190.7,1
+"Missouri and Arkansas Flooding and Central Severe Weather (May 2017)","Flooding",20170425,20170507,2040.7,20
+"Colorado Hail Storm and Central Severe Weather (May 2017)","Severe Storm",20170508,20170511,4087.0,0
+"North Central Severe Weather and Tornadoes (May 2017)","Severe Storm",20170515,20170518,1148.0,1
+"Minnesota Hail Storm and Upper Midwest Severe Weather (June 2017)","Severe Storm",20170609,20170611,2867.0,0
+"Midwest Severe Weather (June 2017)","Severe Storm",20170612,20170616,1841.0,0
+"Midwest Severe Weather (June 2017)","Severe Storm",20170627,20170629,1738.5,0
+"Hurricane Harvey (August 2017)","Tropical Cyclone",20170825,20170831,151250.0,89
+"Hurricane Irma (September 2017)","Tropical Cyclone",20170906,20170912,60500.0,97
+"Hurricane Maria (September 2017)","Tropical Cyclone",20170919,20170921,108900.0,2981
+"Western Wildfires, California Firestorm (Summer-Fall 2017)","Wildfire",20170601,20171231,21966.1,54
+"North Dakota, South Dakota and Montana Drought (Spring-Fall 2017)","Drought",20170301,20171231,3075.0,0
+"Central and Eastern Winter Storm (January 2018)","Winter Storm",20180103,20180105,1251.6,22
+"Northeast Winter Storm (March 2018)","Winter Storm",20180301,20180303,2632.8,9
+"Southeastern Tornadoes and Severe Weather (March 2018)","Severe Storm",20180318,20180321,1742.4,0
+"Southern and Eastern Tornadoes and Severe Weather (April 2018)","Severe Storm",20180413,20180416,1568.7,3
+"Central and Northeastern Severe Weather (May 2018)","Severe Storm",20180501,20180504,1654.5,0
+"Central and Eastern Severe Weather (May 2018)","Severe Storm",20180513,20180515,1630.3,5
+"Texas Hail Storm (June 2018)","Severe Storm",20180606,20180606,1534.0,0
+"Colorado Hail Storm (June 2018)","Severe Storm",20180613,20180613,1126.9,0
+"Colorado Hail Storm (June 2018)","Severe Storm",20180618,20180619,2623.1,0
+"Central and Eastern Tornadoes and Severe Weather (July 2018)","Severe Storm",20180719,20180722,1870.3,0
+"Rockies and Plains Hail Storms (August 2018)","Severe Storm",20180806,20180807,1209.5,0
+"Hurricane Florence (September 2018)","Tropical Cyclone",20180913,20180916,28320.0,53
+"Hurricane Michael (October 2018)","Tropical Cyclone",20181010,20181011,29470.5,49
+"Southwest/Southern Plains Drought (Summer-Fall 2018)","Drought",20180601,20181230,3588.0,0
+"Western Wildfires, California Firestorm (Summer-Fall 2018)","Wildfire",20180601,20181231,28320.0,106
+"Southeast, Ohio Valley and Northeast Severe Weather (February 2019)","Severe Storm",20190223,20190225,1460.4,2
+"Texas Hail Storm (March 2019)","Severe Storm",20190322,20190324,1796.0,0
+"Missouri River and North Central Flooding (March 2019)","Flooding",20190314,20190331,12657.8,3
+"Southern and Eastern Tornadoes and Severe Weather (April 2019)","Severe Storm",20190413,20190414,1452.3,7
+"South and Southeast Severe Weather (May 2019)","Severe Storm",20190507,20190513,1756.2,0
+"Central Severe Weather (May 2019)","Severe Storm",20190516,20190518,1128.7,0
+"Rockies, Central and Northeast Tornadoes and Severe Weather (May 2019)","Severe Storm",20190526,20190529,5217.7,3
+"Arkansas River Flooding (June 2019)","Flooding",20190520,20190614,3509.0,5
+"Colorado Hail Storms (July 2019)","Severe Storm",20190704,20190705,1169.3,0
+"Mississippi River, Midwest and Southern Flooding (July 2019)","Flooding",20190315,20190731,7217.9,4
+"Hurricane Dorian (September 2019)","Tropical Cyclone",20190828,20190906,1867.6,10
+"Tropical Storm Imelda (September 2019)","Tropical Cyclone",20190917,20190921,5800.0,5
+"Texas Tornadoes and Central Severe Weather (October 2019)","Severe Storm",20191020,20191020,1993.0,2
+"California and Alaska Wildfires (Summer-Fall 2019)","Wildfire",20190601,20191130,5220.0,3
+"Southeast Tornadoes and Northern Storms and Flooding (January 2020)","Severe Storm",20200110,20200112,1321.6,10
+"South, East and Northeast Severe Weather (February 2020)","Severe Storm",20200205,20200207,1444.9,3
+"Tennessee Tornadoes and Southeast Severe Weather (March 2020)","Severe Storm",20200302,20200304,2686.5,25
+"Midwest and Ohio Valley Severe Weather (March 2020)","Severe Storm",20200327,20200328,2942.1,0
+"North Central and Ohio Valley Hail Storms and Severe Weather (April 2020)","Severe Storm",20200407,20200408,3342.0,0
+"Southeast and Eastern Tornado Outbreak (April 2020)","Severe Storm",20200412,20200413,3995.0,35
+"Southern Severe Weather (April 2020)","Severe Storm",20200421,20200423,1566.0,3
+"Central, Southern and Eastern Severe Weather (April 2020)","Severe Storm",20200427,20200430,1191.4,1
+"Central and Eastern Severe Weather (May 2020)","Severe Storm",20200503,20200505,2451.2,2
+"South, Central and Eastern Severe Weather (May 2020)","Severe Storm",20200520,20200523,1837.3,2
+"South Texas Hail Storms (May 2020)","Severe Storm",20200527,20200527,1624.0,0
+"Central Severe Weather (July 2020)","Severe Storm",20200710,20200711,1375.6,0
+"Hurricane Hanna (July 2020)","Tropical Cyclone",20200725,20200726,1225.5,0
+"Hurricane Isaias (August 2020)","Tropical Cyclone",20200803,20200804,5470.8,16
+"Central Severe Weather - Derecho (August 2020)","Severe Storm",20200810,20200810,12681.3,4
+"Hurricane Laura (August 2020)","Tropical Cyclone",20200827,20200828,26697.4,42
+"Hurricane Sally (September 2020)","Tropical Cyclone",20200915,20200917,8365.2,5
+"Hurricane Delta (October 2020)","Tropical Cyclone",20201009,20201011,3297.3,5
+"Hurricane Zeta (October 2020)","Tropical Cyclone",20201028,20201029,5004.9,6
+"Tropical Storm Eta (November 2020)","Tropical Cyclone",20201108,20201112,1664.4,12
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)","Drought",20200601,20201230,5169.6,45
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)","Wildfire",20200801,20201230,18917.5,46
+"California Flooding and Severe Weather (January 2021)","Flooding",20210124,20210129,1248.3,2
+"Northwest, Central, Eastern Winter Storm and Cold Wave (February 2021)","Winter Storm",20210210,20210219,25635.5,262
+"Southeast Tornadoes and Severe Weather (March 2021)","Severe Storm",20210324,20210325,1878.2,6
+"Eastern Severe Weather (March 2021)","Severe Storm",20210327,20210328,1507.5,8
+"Texas Hail Storms (April 2021)","Severe Storm",20210412,20210415,1652.0,0
+"Texas and Oklahoma Severe Weather (April 2021)","Severe Storm",20210427,20210428,3526.9,0
+"Southern Tornadoes and Southeast Severe Weather (May 2021)","Severe Storm",20210502,20210504,1403.3,4
+"Louisiana Flooding (May 2021)","Flooding",20210517,20210518,1477.3,5
+"Ohio Valley Hail Storms (June 2021)","Severe Storm",20210617,20210618,1877.7,0
+"Central Severe Storms (June 2021)","Severe Storm",20210624,20210626,1378.3,0
+"Tropical Storm Elsa (July 2021)","Tropical Cyclone",20210707,20210709,1322.3,1
+"Central Severe Storms (July 2021)","Severe Storm",20210708,20210711,1177.4,0
+"North Central Severe Weather (August 2021)","Severe Storm",20210810,20210813,1399.7,2
+"Tropical Storm Fred (August 2021)","Tropical Cyclone",20210816,20210818,1392.1,7
+"Hurricane Ida (August 2021)","Tropical Cyclone",20210829,20210901,80193.7,96
+"Hurricane Nicholas (September 2021)","Tropical Cyclone",20210914,20210918,1107.5,0
+"Southeast, Central Tornado Outbreak (December 2021)","Severe Storm",20211210,20211210,4189.2,93
+"Midwest Derecho and Tornado Outbreak (December 2021)","Severe Storm",20211215,20211215,1906.8,1
+"Western Drought and Heat Wave (2021)","Drought",20210101,20211231,9611.3,229
+"Western Wildfires (2021)","Wildfire",20210601,20211231,11440.0,8
+"Texas Hail Storms (February 2022)","Severe Storm",20220221,20220222,1058.4,0
+"Southern Tornado Outbreak (March 2022)","Severe Storm",20220330,20220330,1306.2,2
+"Southeastern Tornado Outbreak (April 2022)","Severe Storm",20220404,20220406,1459.6,3
+"Southern Severe Weather (April 2022)","Severe Storm",20220411,20220413,2755.3,1
+"Southern and Central Severe Weather (May 2022)","Severe Storm",20220501,20220503,1161.8,1
+"North Central Hail Storms (May 2022)","Severe Storm",20220509,20220509,2224.8,0
+"North Central Severe Weather (May 2022)","Severe Storm",20220511,20220512,2787.3,1
+"North Central Hail Storms (May 2022)","Severe Storm",20220519,20220519,2479.7,0
+"Central Severe Weather (June 2022)","Severe Storm",20220607,20220608,1911.0,0
+"Central Derecho (June 2022)","Severe Storm",20220613,20220613,3245.0,1
+"North Central and Eastern Severe Weather (July 2022)","Severe Storm",20220722,20220724,1340.0,1
+"Kentucky and Missouri Flooding (July 2022)","Flooding",20220726,20220728,1465.0,42
+"Hurricane Fiona (September 2022)","Tropical Cyclone",20220917,20220918,2535.1,25
+"Hurricane Ian (September 2022)","Tropical Cyclone",20220928,20220930,112918.0,152
+"Hurricane Nicole (November 2022)","Tropical Cyclone",20221110,20221111,1020.0,5
+"Western Wildfires (Spring-Fall 2022)","Wildfire",20220401,20221130,3110.0,17
+"Central and Eastern Winter Storm and Cold Wave (December 2022)","Winter Storm",20221221,20221226,TBD,87
+"Western/Central Drought and Heat Wave (2022)","Drought",20220101,20221231,22222.8,136
