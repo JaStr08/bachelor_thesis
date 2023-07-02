@@ -1,0 +1,192 @@
+first_name,last_name,name,first_last,user_name,twitter_id,party_name,state,office_title,account_type,middle_name,suffix,status,collecting,showing,bioguide_id,gender,fec_candidate_id,district,branch
+Angus,King,Angus King,Angus King,angusking2018,513724157,Independent,ME,Senator,campaign,NA,NA,1,TRUE,TRUE,K000383,M,S2ME00109,81,S
+Angus,King,Angus King,Angus King,SenAngusKing,1068481578,Independent,ME,Senator,official,NA,NA,1,TRUE,TRUE,K000383,M,S2ME00109,81,S
+Ben,Cardin,Ben Cardin,Ben Cardin,BenCardinforMD,278094476,Democrat,MD,Senator,campaign,NA,NA,1,TRUE,TRUE,C000141,M,S6MD03177,81,S
+Ben,Cardin,Ben Cardin,Ben Cardin,SenatorCardin,109071031,Democrat,MD,Senator,official,NA,NA,1,TRUE,TRUE,C000141,M,S6MD03177,81,S
+Ben,Lujan,Ben R. Lujan,Ben Lujan,SenatorLujan,19318314,Democrat,NM,House Representative,official,Ray,NA,1,TRUE,TRUE,L000570,M,S0NM00058,NA,S
+Bernard,Sanders,Bernard Sanders,Bernard Sanders,SenSanders,29442313,Independent,VT,Senator,official,"""Bernie""",NA,1,TRUE,TRUE,S000033,M,S4VT00033,81,S
+Bernard,Sanders,Bernard Sanders,Bernard Sanders,BernieSanders,216776631,Independent,VT,Presidential Candidate,campaign,"""Bernie""",NA,1,TRUE,TRUE,S000033,M,P60007168,NA,P
+Bill,Cassidy,"""Bill"" Cassidy",Bill Cassidy,BillCassidy,55677432,Republican,LA,Senator,campaign,NA,NA,1,TRUE,TRUE,C001075,M,S4LA00107,82,S
+Bill,Cassidy,"""Bill"" Cassidy",Bill Cassidy,SenBillCassidy,1017500185356853200,Republican,LA,Senator,official,NA,NA,1,TRUE,TRUE,C001075,M,S4LA00107,NA,S
+Bill,Cassidy,Bill Cassidy,Bill Cassidy,BillCassidy,55677432,Republican,LA,Senator,campaign,NA,NA,1,TRUE,TRUE,C001075,M,S4LA00107,82,S
+Bill,Cassidy,Bill Cassidy,Bill Cassidy,SenBillCassidy,1017500185356853200,Republican,LA,Senator,official,NA,NA,1,TRUE,TRUE,C001075,M,S4LA00107,NA,S
+Bill,Hagerty,Bill Hagerty,Bill Hagerty,SenatorHagerty,1346873610875654100,Republican,TN,Senator,official,NA,NA,1,TRUE,TRUE,H000601,M,S0TN00169,00,S
+Bill,Hagerty,Bill Hagerty,Bill Hagerty,BillHagertyTN,1152598802873880600,Republican,TN,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,H000601,M,S0TN00169,NA,S
+Brian,Schatz,Brian Schatz,Brian Schatz,brianschatz,47747074,Democrat,HI,Senator,campaign,NA,NA,1,TRUE,TRUE,S001194,M,S4HI00136,83,S
+Brian,Schatz,Brian Schatz,Brian Schatz,SenBrianSchatz,1262099252,Democrat,HI,Senator,official,NA,NA,1,TRUE,TRUE,S001194,M,S4HI00136,83,S
+Catherine,Masto,Catherine Cortez Masto,Catherine Masto,CortezMasto,3145735852,Democrat,NV,Senator,campaign,Cortez,NA,1,TRUE,TRUE,C001113,F,S6NV00200,00,S
+Catherine,Masto,Catherine Cortez Masto,Catherine Masto,SenCortezMasto,811313565760163800,Democrat,NV,Senator,official,Cortez,NA,1,TRUE,TRUE,C001113,F,S6NV00200,00,S
+Charlie,Crist,Charlie Crist,Charlie Crist,RepCharlieCrist,816030424778543100,Democrat,FL,House Representative,official,NA,NA,1,TRUE,TRUE,C001111,M,H6FL13205,13,H
+Chuck,Grassley,Chuck Grassley,Chuck Grassley,ChuckGrassley,10615232,Republican,IA,Senator,official,NA,NA,1,TRUE,TRUE,G000386,M,S0IA00028,83,S
+Chuck,Grassley,Chuck Grassley,Chuck Grassley,GrassleyWorks,118740781,Republican,IA,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,NA,M,S0IA00028,00,S
+Cindy,Hyde-Smith,Cindy Hyde-Smith,Cindy Hyde-Smith,cindyhydesmith,262192574,Republican,MS,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,H001079,F,S8MS00261,99,S
+Cindy,Hyde-Smith,Cindy Hyde-Smith,Cindy Hyde-Smith,SenHydeSmith,983348251972816900,Republican,MS,Senator,official,NA,NA,1,TRUE,TRUE,H001079,F,S8MS00261,99,S
+Cory,Booker,Cory A. Booker,Cory Booker,SenBooker,2167097881,Democrat,NJ,Senator,official,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,NA,S
+Cory,Booker,Cory A. Booker,Cory Booker,SenBookerOfc,2147483647,Democrat,NJ,Senator,official,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,82,S
+Cory,Booker,Cory A. Booker,Cory Booker,Booker4Senate,1603426344,Democrat,NJ,Senator,campaign,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,82,S
+Cory,Booker,Cory Booker,Cory Booker,SenBooker,2167097881,Democrat,NJ,Senator,official,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,NA,S
+Cory,Booker,Cory Booker,Cory Booker,SenBookerOfc,2147483647,Democrat,NJ,Senator,official,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,82,S
+Cory,Booker,Cory Booker,Cory Booker,Booker4Senate,1603426344,Democrat,NJ,Senator,campaign,NA,NA,1,TRUE,TRUE,B001288,M,S4NJ00185,82,S
+Cynthia,Lummis,Cynthia M. Lummis,Cynthia Lummis,CynthiaMLummis,1136711154435207200,Republican,WY,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,L000571,F,S0WY00137,NA,S
+Cynthia,Lummis,Cynthia M. Lummis,Cynthia Lummis,SenLummis,22831059,Republican,WY,House Representative,official,NA,NA,1,TRUE,TRUE,L000571,F,S0WY00137,NA,S
+Dan,Sullivan,Dan Sullivan,Dan Sullivan,SenDanSullivan,2147483647,Republican,AK,Senator,official,NA,NA,1,TRUE,TRUE,S001198,M,S4AK00214,82,S
+Dan,Sullivan,Dan Sullivan,Dan Sullivan,DanSullivan_AK,1869975300,Republican,AK,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,S001198,M,S4AK00214,NA,S
+David,Perdue,David A. Perdue,David Perdue,DavidPerdueGA,1397501864,Republican,GA,Senator,campaign,NA,NA,1,TRUE,TRUE,P000612,M,S4GA11285,82,S
+Deb,Fischer,Deb Fischer,Deb Fischer,SenatorFischer,1071402577,Republican,NE,Senator,official,NA,NA,1,TRUE,TRUE,F000463,F,S2NE00094,81,S
+Deb,Fischer,Deb Fischer,Deb Fischer,DebforNebraska,323490669,Republican,NE,Senator,campaign,NA,NA,1,TRUE,TRUE,F000463,F,S2NE00094,81,S
+Debbie,Stabenow,Debbie Stabenow,Debbie Stabenow,SenStabenow,76456274,Democrat,MI,Senator,official,NA,NA,1,TRUE,TRUE,S000770,F,S8MI00281,81,S
+Debbie,Stabenow,Debbie Stabenow,Debbie Stabenow,TeamStabenow,456137574,Democrat,MI,Senator,campaign,NA,NA,1,TRUE,TRUE,S000770,F,S8MI00281,81,S
+Debbie,Stabenow,Debbie Stabenow,Debbie Stabenow,stabenow,20113797,Democrat,MI,Senator,campaign,NA,NA,1,TRUE,TRUE,S000770,F,S8MI00281,81,S
+Deborah,Ross,Deborah K. Ross,Deborah Ross,RepDeborahRoss,1348683154815656e3,Democrat,NC,House Representative,official,NA,NA,1,TRUE,TRUE,R000305,F,H0NC02125,02,H
+Deborah,Ross,Deborah K. Ross,Deborah Ross,DeborahRossNC,3806081652,Democrat,NC,House Candidate,campaign,NA,NA,1,TRUE,TRUE,R000305,F,H0NC02125,02,H
+Dianne,Feinstein,Dianne Feinstein,Dianne Feinstein,SenFeinstein,476256944,Democrat,CA,Senator,official,NA,NA,1,TRUE,TRUE,F000062,F,S0CA00199,00,S
+Elizabeth,Warren,Elizabeth A. Warren,Elizabeth Warren,ewarren,357606935,Democrat,MA,Presidential Candidate,campaign,NA,NA,1,TRUE,TRUE,W000817,F,P00009621,NA,P
+Elizabeth,Warren,Elizabeth A. Warren,Elizabeth Warren,SenWarren,970207298,Democrat,MA,Senator,official,NA,NA,1,TRUE,TRUE,W000817,F,S2MA00170,81,S
+Gary,Peters,Gary Peters,Gary Peters,SenGaryPeters,236511574,Democrat,MI,Senator,official,NA,NA,1,TRUE,TRUE,P000595,M,S4MI00355,82,S
+Gary,Peters,Gary Peters,Gary Peters,GaryPeters,145292853,Democrat,MI,Senator,campaign,NA,NA,1,TRUE,TRUE,P000595,M,S4MI00355,82,S
+Gary,Peters,Gary C. Peters,Gary Peters,SenGaryPeters,236511574,Democrat,MI,Senator,official,NA,NA,1,TRUE,TRUE,P000595,M,S4MI00355,82,S
+Gary,Peters,Gary C. Peters,Gary Peters,GaryPeters,145292853,Democrat,MI,Senator,campaign,NA,NA,1,TRUE,TRUE,P000595,M,S4MI00355,82,S
+Jack,Reed,Jack Reed,Jack Reed,SenJackReed,486694111,Democrat,RI,Senator,official,NA,NA,1,TRUE,TRUE,R000122,M,S6RI00163,82,S
+Jack,Reed,Jack Reed,Jack Reed,jackreed2020,1264928341737554e3,Democrat,RI,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,R000122,M,S6RI00163,NA,S
+Jacky,Rosen,Jacky Rosen,Jacky Rosen,SenJackyRosen,818554054309716e3,Democrat,NV,Senator,official,NA,NA,1,TRUE,TRUE,R000608,F,S8NV00156,00,S
+Jacky,Rosen,Jacky Rosen,Jacky Rosen,RosenforNevada,4749863113,Democrat,NV,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,R000608,F,S8NV00156,00,S
+James,Lankford,James Lankford,James Lankford,SenatorLankford,225921757,Republican,OK,Senator,official,NA,NA,1,TRUE,TRUE,L000575,M,S4OK00232,83,S
+James,Lankford,James Lankford,James Lankford,jameslankford,27044466,Republican,OK,Senator,campaign,NA,NA,1,TRUE,TRUE,L000575,M,S4OK00232,83,S
+Jeanne,Shaheen,Jeanne Shaheen,Jeanne Shaheen,JeanneShaheen,14125897,Democrat,NH,Senator,campaign,NA,NA,1,TRUE,TRUE,S001181,F,S0NH00219,82,S
+Jeanne,Shaheen,Jeanne Shaheen,Jeanne Shaheen,SenatorShaheen,109287731,Democrat,NH,Senator,official,NA,NA,1,TRUE,TRUE,S001181,F,S0NH00219,82,S
+Jeff,Merkley,Jeff Merkley,Jeff Merkley,JeffMerkley,223166587,Democrat,OR,Senator,campaign,NA,NA,1,TRUE,TRUE,M001176,M,S8OR00207,82,S
+Jeff,Merkley,Jeff Merkley,Jeff Merkley,SenJeffMerkley,29201047,Democrat,OR,Senator,official,NA,NA,1,TRUE,TRUE,M001176,M,S8OR00207,82,S
+Jerry,Moran,Jerry Moran,Jerry Moran,moranforkansas,18632809,Republican,KS,Senator,campaign,NA,NA,1,TRUE,TRUE,M000934,M,S0KS00091,83,S
+Jerry,Moran,Jerry Moran,Jerry Moran,JerryMoran,18632666,Republican,KS,Senator,official,NA,NA,1,TRUE,TRUE,M000934,M,S0KS00091,83,S
+Jim,Inhofe,Jim Inhofe,Jim Inhofe,inhofeforsenate,1191831959363829800,Republican,OK,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,I000024,M,S4OK00083,NA,S
+Jim,Inhofe,Jim Inhofe,Jim Inhofe,JimInhofe,7270292,Republican,OK,Senator,campaign,NA,NA,1,TRUE,TRUE,I000024,M,S4OK00083,82,S
+Jim,Inhofe,Jim Inhofe,Jim Inhofe,InhofePress,20546536,Republican,OK,Senator,official,NA,NA,1,TRUE,TRUE,I000024,M,S4OK00083,82,S
+Jim,Renacci,Jim Renacci,Jim Renacci,JimRenacci,2337241560,Republican,OH,Gubernatorial Candidate,campaign,NA,NA,1,TRUE,TRUE,NA,M,S8OH00102,NA,S
+Jim,Risch,Jim Risch,Jim Risch,SenatorRisch,1096059529,Republican,ID,Senator,official,NA,NA,1,TRUE,TRUE,R000584,M,S8ID00092,82,S
+Jim,Risch,Jim Risch,Jim Risch,Risch4Idaho,1148757025012277200,Republican,ID,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,R000584,M,S8ID00092,NA,S
+John,Barrasso,John Barrasso,John Barrasso,barrassoforwyo,499268312,Republican,WY,Senator,campaign,NA,NA,1,TRUE,TRUE,B001261,M,S6WY00068,81,S
+John,Barrasso,John Barrasso,John Barrasso,SenJohnBarrasso,202206694,Republican,WY,Senator,official,NA,NA,1,TRUE,TRUE,B001261,M,S6WY00068,00,S
+John,Cornyn,John Cornyn,John Cornyn,JohnCornyn,13218102,Republican,TX,Senator,official,NA,NA,1,TRUE,TRUE,C001056,M,S2TX00106,82,S
+John,Cornyn,John Cornyn,John Cornyn,TeamCornyn,1648117711,Republican,TX,Senator,campaign,NA,NA,1,TRUE,TRUE,C001056,M,S2TX00106,82,S
+John,Hickenlooper,John W. Hickenlooper,John Hickenlooper,SenatorHick,1318728336923787300,Democrat,CO,Senator,official,NA,NA,1,TRUE,TRUE,H000273,M,S0CO00575,00,S
+John,Hickenlooper,John W. Hickenlooper,John Hickenlooper,Hickenlooper,117839957,Democrat,CO,Senate Candidate,official,NA,NA,1,TRUE,TRUE,H000273,M,S0CO00575,NA,S
+John,Hoeven,John Hoeven,John Hoeven,hoeven4senate,106733567,Republican,ND,Senator,campaign,NA,NA,1,TRUE,TRUE,H001061,M,S0ND00093,83,S
+John,Hoeven,John Hoeven,John Hoeven,SenJohnHoeven,382791093,Republican,ND,Senator,official,NA,NA,1,TRUE,TRUE,H001061,M,S0ND00093,83,S
+John,James,John James,John James,JohnJamesMI,861246117689925600,Republican,MI,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,NA,M,H2MI10150,10,H
+John,Kennedy,John Kennedy,John Kennedy,JohnKennedyLA,26594419,Republican,LA,Senator,campaign,Neely,NA,1,TRUE,TRUE,K000393,M,S4LA00065,00,S
+John,Kennedy,John Kennedy,John Kennedy,SenJohnKennedy,816683274076614700,Republican,LA,Senator,official,NA,NA,1,TRUE,TRUE,K000393,M,S4LA00065,00,S
+John,Thune,John R. Thune,John Thune,johnthune,26533227,Republican,SD,Senator,campaign,NA,NA,1,TRUE,TRUE,T000250,M,S2SD00068,83,S
+John,Thune,John R. Thune,John Thune,SenJohnThune,296361085,Republican,SD,Senator,official,NA,NA,1,TRUE,TRUE,T000250,M,S2SD00068,83,S
+Jon,Ossoff,Jon Ossoff,Jon Ossoff,SenOssoff,1356714265894408200,Democrat,GA,Senator,official,NA,NA,1,TRUE,TRUE,O000174,M,S8GA00180,00,S
+Jon,Ossoff,Jon Ossoff,Jon Ossoff,ossoff,521747968,Democrat,GA,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,O000174,M,S8GA00180,82,S
+Jon,Tester,Jon Tester,Jon Tester,SenatorTester,515822213,Democrat,MT,Senator,official,NA,NA,1,TRUE,TRUE,T000464,M,S6MT00162,81,S
+Jon,Tester,Jon Tester,Jon Tester,jontester,16473577,Democrat,MT,Senator,campaign,NA,NA,1,TRUE,TRUE,T000464,M,S6MT00162,81,S
+Joni,Ernst,Joni Ernst,Joni Ernst,joniernst,1383059977,Republican,IA,Senator,campaign,NA,NA,1,TRUE,TRUE,E000295,F,S4IA00129,82,S
+Joni,Ernst,Joni Ernst,Joni Ernst,TeamJoni,1952510636,Republican,IA,Senator,campaign,NA,NA,1,TRUE,TRUE,E000295,F,S4IA00129,00,S
+Joni,Ernst,Joni Ernst,Joni Ernst,SenJoniErnst,2147483647,Republican,IA,Senator,official,NA,NA,1,TRUE,TRUE,E000295,F,S4IA00129,82,S
+Josh,Hawley,Josh Hawley,Josh Hawley,HawleyMO,2352629311,Republican,MO,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,H001089,M,S8MO00160,00,S
+Josh,Hawley,Josh Hawley,Josh Hawley,SenHawleyPress,1.0809609246877041e+18,Republican,MO,Senator,official,NA,NA,1,TRUE,TRUE,H001089,M,S8MO00160,NA,S
+Kamala,Harris,Kamala D. Harris,Kamala Harris,KamalaHarris,30354991,Democrat,CA,Presidential Candidate,NA,NA,NA,1,TRUE,TRUE,H001075,F,S6CA00584,00,S
+Kamala,Harris,Kamala D. Harris,Kamala Harris,VP,803694179079458800,Democrat,DC,Vice President,official,NA,NA,1,TRUE,TRUE,NA,F,NA,NA,NA
+Ken,Buck,Ken Buck,Ken Buck,RepKenBuck,2147483647,Republican,CO,House Representative,official,NA,NA,1,TRUE,TRUE,B001297,M,S0CO00237,04,H
+Ken,Buck,Ken Buck,Ken Buck,BuckForColorado,34959770,Republican,CO,House Candidate,campaign,NA,NA,1,TRUE,TRUE,B001297,M,H4CO04090,04,H
+Kevin,Cramer,Kevin Cramer,Kevin Cramer,SenKevinCramer,1048784496,Republican,ND,House Representative,official,NA,NA,1,TRUE,TRUE,C001096,M,S8ND00120,00,S
+Kevin,Cramer,Kevin Cramer,Kevin Cramer,kevincramer,28267055,Republican,ND,House Candidate,campaign,NA,NA,1,TRUE,TRUE,C001096,M,S8ND00120,00,S
+Kirsten,Gillibrand,Kirsten E. Gillibrand,Kirsten Gillibrand,gillibrandny,899978622416695300,Democrat,NY,Senator,official,NA,NA,1,TRUE,TRUE,G000555,F,S0NY00410,81,S
+Kirsten,Gillibrand,Kirsten E. Gillibrand,Kirsten Gillibrand,SenGillibrand,72198806,Democrat,NY,Presidential Candidate,official,NA,NA,1,TRUE,TRUE,G000555,F,S0NY00410,81,S
+Kyrsten,Sinema,Kyrsten Sinema,Kyrsten Sinema,kyrstensinema,20747881,Democrat,AZ,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,S001191,F,S8AZ00197,00,S
+Lamar,Alexander,Lamar Alexander,Lamar Alexander,SenAlexander,76649729,Republican,TN,Senator,official,NA,NA,1,TRUE,TRUE,A000360,M,S2TN00058,82,S
+Lindsey,Graham,Lindsey Graham,Lindsey Graham,LindseyGrahamSC,432895323,Republican,SC,Senator,campaign,NA,NA,1,TRUE,TRUE,G000359,M,S0SC00149,82,S
+Lindsey,Graham,Lindsey Graham,Lindsey Graham,GrahamBlog,14845376,Republican,SC,Senator,official,NA,NA,1,TRUE,TRUE,G000359,M,S0SC00149,82,S
+Lisa,Murkowski,Lisa Murkowski,Lisa Murkowski,lisamurkowski,18061669,Republican,AK,Senator,official,NA,NA,1,TRUE,TRUE,M001153,F,S4AK00099,83,S
+Lisa,Murkowski,Lisa Murkowski,Lisa Murkowski,LisaForSenate,151247615,Republican,AK,Senator,campaign,NA,NA,1,TRUE,TRUE,M001153,F,S4AK00099,83,S
+Maggie,Hassan,Maggie Hassan,Maggie Hassan,SenatorHassan,946549322,Democrat,NH,Senator,official,NA,NA,1,TRUE,TRUE,H001076,F,S6NH00091,00,S
+Maggie,Hassan,Maggie Hassan,Maggie Hassan,Maggie_Hassan,361569788,Democrat,NH,Senator,campaign,NA,NA,1,TRUE,TRUE,H001076,F,S6NH00091,00,S
+Marco,Rubio,Marco Rubio,Marco Rubio,teammarco,2147483647,Republican,FL,NA,campaign,NA,NA,1,TRUE,TRUE,NA,M,NA,NA,NA
+Marco,Rubio,Marco Rubio,Marco Rubio,marcorubio,15745368,Republican,FL,Senator,campaign,NA,NA,1,TRUE,TRUE,R000595,M,S0FL00338,83,S
+Marco,Rubio,Marco Rubio,Marco Rubio,SenMarcoRubio,229966028,Republican,FL,Senator,official,NA,NA,1,TRUE,TRUE,R000595,M,S0FL00338,83,S
+Maria,Cantwell,Maria Cantwell,Maria Cantwell,SenatorCantwell,117501995,Democrat,WA,Senator,official,NA,NA,1,TRUE,TRUE,C000127,F,S8WA00194,81,S
+Maria,Cantwell,Maria Cantwell,Maria Cantwell,MariaCantwell,35567751,Democrat,WA,Senator,campaign,NA,NA,1,TRUE,TRUE,C000127,F,S8WA00194,81,S
+Mark,Kelly,Mark Kelly,Mark Kelly,SenMarkKelly,1324926274888888300,Democrat,AZ,Senator,official,NA,NA,1,TRUE,TRUE,K000377,M,S0AZ00350,NA,S
+Mark,Kelly,Mark Kelly,Mark Kelly,CaptMarkKelly,65707359,Democrat,AZ,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,K000377,M,S0AZ00350,NA,S
+Mark,Warner,Mark R. Warner,Mark Warner,MarkWarnerVA,409719505,Democrat,VA,Senator,campaign,NA,NA,1,TRUE,TRUE,W000805,M,S6VA00093,82,S
+Mark,Warner,Mark R. Warner,Mark Warner,MarkWarner,7429102,Democrat,VA,Senator,official,NA,NA,1,TRUE,TRUE,W000805,M,S6VA00093,82,S
+Marsha,Blackburn,Marsha Blackburn,Marsha Blackburn,VoteMarsha,63150856,Republican,TN,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,B001243,F,S8TN00337,00,S
+Martin,Heinrich,Martin T Heinrich,Martin Heinrich,TeamHeinrich,183062944,Democrat,NM,Senator,campaign,NA,NA,1,TRUE,TRUE,H001046,M,S2NM00088,81,S
+Martin,Heinrich,Martin T Heinrich,Martin Heinrich,MartinHeinrich,1099199839,Democrat,NM,Senator,official,NA,NA,1,TRUE,TRUE,H001046,M,S2NM00088,81,S
+Martin,Heinrich,Martin Heinrich,Martin Heinrich,TeamHeinrich,183062944,Democrat,NM,Senator,campaign,NA,NA,1,TRUE,TRUE,H001046,M,S2NM00088,81,S
+Martin,Heinrich,Martin Heinrich,Martin Heinrich,MartinHeinrich,1099199839,Democrat,NM,Senator,official,NA,NA,1,TRUE,TRUE,H001046,M,S2NM00088,81,S
+Matt,Rosendale,Matt Rosendale,Matt Rosendale,MattForMontana,1376252790,Republican,MT,House Candidate,campaign,NA,NA,1,TRUE,TRUE,R000103,M,H4MT00050,00,H
+Matt,Rosendale,Matt Rosendale,Matt Rosendale,RepRosendale,1344751420139040800,Republican,MT,House Representative,official,NA,NA,1,TRUE,TRUE,R000103,M,H4MT00050,00,H
+Mazie,Hirono,Mazie K. Hirono,Mazie Hirono,mazieforhawaii,169198625,Democrat,HI,Senator,campaign,NA,NA,1,TRUE,TRUE,H001042,F,S2HI00106,81,S
+Mazie,Hirono,Mazie K. Hirono,Mazie Hirono,maziehirono,92186819,Democrat,HI,Senator,official,NA,NA,1,TRUE,TRUE,H001042,F,S2HI00106,81,S
+Michael,Bennet,Michael F. Bennet,Michael Bennet,SenatorBennet,224285242,Democrat,CO,Senator,official,NA,NA,1,TRUE,TRUE,B001267,M,S0CO00211,83,S
+Mike,Braun,Mike Braun,Mike Braun,braun4indiana,1861019372,Republican,IN,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,B001310,M,S8IN00171,NA,S
+Mike,Braun,Mike Braun,Mike Braun,SenatorBraun,1080870981877534700,Republican,IN,Senator,official,NA,NA,1,TRUE,TRUE,B001310,M,S8IN00171,NA,S
+Mike,Crapo,Mike Crapo,Mike Crapo,MikeCrapo,600463589,Republican,ID,Senator,official,NA,NA,1,TRUE,TRUE,C000880,M,S8ID00027,83,S
+Mike,Lee,Mike Lee,Mike Lee,MikeLeeforUtah,2164909022,Republican,UT,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,NA,M,S0UT00165,00,S
+Mike,Lee,Mike Lee,Mike Lee,SenMikeLee,88784440,Republican,UT,Senator,official,NA,NA,1,TRUE,TRUE,L000577,M,S0UT00165,83,S
+Mike,Rounds,Mike Rounds,Mike Rounds,SenatorRounds,2147483647,Republican,SD,Senator,official,NA,NA,1,TRUE,TRUE,R000605,M,S4SD00049,82,S
+Mike,Rounds,Mike Rounds,Mike Rounds,RoundsforSenate,978029858,Republican,SD,Senator,campaign,NA,NA,1,TRUE,TRUE,R000605,M,S4SD00049,82,S
+Mitt,Romney,Mitt Romney,Mitt Romney,Romney4Utah,956676183873081300,Republican,UT,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,R000615,M,S8UT00176,00,S
+Mitt,Romney,Mitt Romney,Mitt Romney,MittRomney,50055701,Republican,UT,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,NA,M,S8UT00176,00,S
+Mitt,Romney,Mitt Romney,Mitt Romney,SenatorRomney,1078693601356509200,Republican,UT,Senator,official,NA,NA,1,TRUE,TRUE,R000615,M,S8UT00176,NA,S
+Pat,Toomey,Pat Toomey,Pat Toomey,SenToomey,221162525,Republican,PA,Senator,official,NA,NA,1,TRUE,TRUE,T000461,M,S4PA00121,83,S
+Patrick,Leahy,Patrick J. Leahy,Patrick Leahy,SenatorLeahy,242836537,Democrat,VT,Senator,official,NA,NA,1,TRUE,TRUE,L000174,M,S4VT00017,83,S
+Patty,Murray,Patty Murray,Patty Murray,PattyMurray,293131808,Democrat,WA,Senator,official,NA,NA,1,TRUE,TRUE,M001111,F,S2WA00189,83,S
+Patty,Murray,Patty Murray,Patty Murray,MurrayCampaign,158470209,Democrat,WA,Senator,campaign,NA,NA,1,TRUE,TRUE,M001111,F,S2WA00189,83,S
+Rand,Paul,Rand Paul,Rand Paul,DrRandPaul,39834947,Republican,KY,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,P000603,F,S0KY00156,83,S
+Rand,Paul,Rand Paul,Rand Paul,RandPaul,216881337,Republican,KY,Senator,official,NA,NA,1,TRUE,TRUE,P000603,F,S0KY00156,83,S
+Raphael,Warnock,Raphael Warnock,Raphael Warnock,ReverendWarnock,1221242033530196e3,Democrat,GA,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,W000790,M,S0GA00559,99,S
+Raphael,Warnock,Raphael Warnock,Raphael Warnock,SenatorWarnock,1352287997853622300,Democrat,GA,Senator,official,NA,NA,1,TRUE,TRUE,W000790,M,S0GA00559,00,S
+Richard,Blumenthal,Richard Blumenthal,Richard Blumenthal,DickBlumenthal,102477372,Democrat,CT,Senator,campaign,"""Dick""",NA,1,TRUE,TRUE,B001277,M,S0CT00177,83,S
+Richard,Blumenthal,Richard Blumenthal,Richard Blumenthal,SenBlumenthal,278124059,Democrat,CT,Senator,official,"""Dick""",NA,1,TRUE,TRUE,B001277,M,S0CT00177,83,S
+Richard,Burr,Richard Burr,Richard Burr,SenatorBurr,21157904,Republican,NC,Senator,official,NA,NA,1,TRUE,TRUE,B001135,M,S4NC00089,83,S
+Richard,Shelby,Richard C. Shelby,Richard Shelby,SenShelby,21111098,Republican,AL,Senator,official,NA,NA,1,TRUE,TRUE,S000320,M,S6AL00013,83,S
+Rick,Scott,Rick Scott,Rick Scott,SenRickScott,131546062,Republican,FL,Senator,official,NA,NA,1,TRUE,TRUE,S001217,M,S8FL00273,NA,NA
+Rick,Scott,Rick Scott,Rick Scott,ScottforFlorida,306389855,Republican,FL,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,S001217,M,S8FL00273,00,S
+Rob,Portman,Rob Portman,Rob Portman,portmanpress,240790556,Republican,OH,Senator,official,NA,NA,1,TRUE,TRUE,P000449,M,S0OH00133,83,S
+Rob,Portman,Rob Portman,Rob Portman,senrobportman,18915145,Republican,OH,Senator,official,NA,NA,1,TRUE,TRUE,P000449,M,S0OH00133,83,S
+Robert,Casey,Robert P Casey Jr,Robert Casey,Bob_Casey,94154021,Democrat,PA,Senator,campaign,"""Bob""",Jr.,1,TRUE,TRUE,C001070,M,S6PA00217,81,S
+Robert,Casey,Robert P Casey Jr,Robert Casey,SenBobCasey,171598736,Democrat,PA,Senator,official,"""Bob""",Jr.,1,TRUE,TRUE,C001070,M,S6PA00217,81,S
+Robert,Menendez,Robert Menendez,Robert Menendez,SenatorMenendez,18695134,Democrat,NJ,Senator,official,"""Bob""",NA,1,TRUE,TRUE,M000639,M,S6NJ00289,81,S
+Robert,Menendez,Robert Menendez,Robert Menendez,BobMenendezNJ,407039290,Democrat,NJ,Senator,campaign,"""Bob""",NA,1,TRUE,TRUE,M000639,M,S6NJ00289,81,S
+Roger,Marshall,Roger Marshall,Roger Marshall,SenatorMarshall,1336344005588738e3,Republican,KS,Senator,official,NA,NA,1,TRUE,TRUE,M001198,M,S0KS00315,NA,S
+Roger,Marshall,Roger Marshall,Roger Marshall,RogerMarshallMD,1240107944,Republican,KS,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,M001198,M,S0KS00315,NA,S
+Roger,Wicker,Roger F. Wicker,Roger Wicker,RogerWicker,11650762,Republican,MS,Senator,campaign,NA,NA,1,TRUE,TRUE,W000437,M,S8MS00196,81,S
+Roger,Wicker,Roger F. Wicker,Roger Wicker,SenatorWicker,264219447,Republican,MS,Senator,official,NA,NA,1,TRUE,TRUE,W000437,M,S8MS00196,81,S
+Ron,Johnson,Ron Johnson,Ron Johnson,RonJohnsonWI,142332083,Republican,WI,Senator,campaign,NA,NA,1,TRUE,TRUE,J000293,M,S0WI00197,83,S
+Ron,Johnson,Ron Johnson,Ron Johnson,SenRonJohnson,233737858,Republican,WI,Senator,official,NA,NA,1,TRUE,TRUE,J000293,M,S0WI00197,83,S
+Ron,Wyden,Ron Wyden,Ron Wyden,RonWyden,250188760,Democrat,OR,Senator,official,NA,NA,1,TRUE,TRUE,W000779,M,S6OR00110,83,S
+Ron,Wyden,Ron Wyden,Ron Wyden,WydenForOregon,122124607,Democrat,OR,Senator,campaign,NA,NA,1,TRUE,TRUE,W000779,M,S6OR00110,83,S
+Roy,Blunt,Roy Blunt,Roy Blunt,RoyBlunt,21269970,Republican,MO,Senator,official,NA,NA,1,TRUE,TRUE,B000575,M,S0MO00183,83,S
+Sheldon,Whitehouse,Sheldon Whitehouse,Sheldon Whitehouse,SenWhitehouse,242555999,Democrat,RI,Senator,official,NA,NA,1,TRUE,TRUE,W000802,M,S6RI00221,81,S
+Shelley,Capito,Shelley Moore Capito,Shelley Capito,CapitoforWV,158890005,Republican,WV,Senator,campaign,NA,NA,1,TRUE,TRUE,C001047,F,S4WV00159,82,S
+Shelley,Capito,Shelley Moore Capito,Shelley Capito,SenCapito,193794406,Republican,WV,Senator,official,NA,NA,1,TRUE,TRUE,C001047,F,S4WV00159,82,S
+Sherrod,Brown,Sherrod Brown,Sherrod Brown,SherrodBrown,24768753,Democrat,OH,Senator,campaign,NA,NA,1,TRUE,TRUE,B000944,M,S6OH00163,81,S
+Sherrod,Brown,Sherrod Brown,Sherrod Brown,SenSherrodBrown,43910797,Democrat,OH,Senator,official,NA,NA,1,TRUE,TRUE,B000944,M,S6OH00163,81,S
+Steve,Daines,Steve Daines,Steve Daines,SteveDaines,11651202,Republican,MT,Senator,official,NA,NA,1,TRUE,TRUE,D000618,M,S2MT00096,82,S
+Steve,Daines,Steve Daines,Steve Daines,DainesforMT,214767677,Republican,MT,Senator,campaign,NA,NA,1,TRUE,TRUE,D000618,M,S2MT00096,82,S
+Susan,Collins,Susan Margaret Collins,Susan Collins,SenSusanCollins,13529632,Republican,ME,NA,campaign,NA,NA,1,TRUE,TRUE,C001035,F,S6ME00159,NA,S
+Susan,Collins,Susan Margaret Collins,Susan Collins,SenatorCollins,19726613,Republican,ME,Senator,official,NA,NA,1,TRUE,TRUE,C001035,F,S6ME00159,82,S
+Susan,Collins,Susan M. Collins,Susan Collins,SenSusanCollins,13529632,Republican,ME,NA,campaign,NA,NA,1,TRUE,TRUE,C001035,F,S6ME00159,NA,S
+Susan,Collins,Susan M. Collins,Susan Collins,SenatorCollins,19726613,Republican,ME,Senator,official,NA,NA,1,TRUE,TRUE,C001035,F,S6ME00159,82,S
+Tammy,Baldwin,Tammy Baldwin,Tammy Baldwin,tammybaldwin,87510313,Democrat,WI,Senator,campaign,NA,NA,1,TRUE,TRUE,B001230,F,S2WI00219,81,S
+Tammy,Baldwin,Tammy Baldwin,Tammy Baldwin,SenatorBaldwin,1074518754,Democrat,WI,Senator,official,NA,NA,1,TRUE,TRUE,B001230,F,S2WI00219,81,S
+Tammy,Duckworth,Tammy Duckworth,Tammy Duckworth,TammyDuckworth_,18468374,Democrat,IL,Senator,campaign,NA,NA,1,TRUE,TRUE,D000622,F,S6IL00292,00,S
+Tammy,Duckworth,Tammy Duckworth,Tammy Duckworth,SenDuckworth,1058520120,Democrat,IL,Senator,official,NA,NA,1,TRUE,TRUE,D000622,F,S6IL00292,83,S
+Tammy,Duckworth,Tammy Duckworth,Tammy Duckworth,TammyDuckworth,328679423,Democrat,IL,Senator,campaign,NA,NA,1,TRUE,TRUE,D000622,F,S6IL00292,83,S
+Ted,Cruz,Ted Cruz,Ted Cruz,tedcruz,23022687,Republican,TX,Senator,campaign,NA,NA,1,TRUE,TRUE,C001098,M,S2TX00312,81,S
+Ted,Cruz,Ted Cruz,Ted Cruz,SenTedCruz,1074480192,Republican,TX,Senator,official,NA,NA,1,TRUE,TRUE,C001098,M,S2TX00312,81,S
+Thom,Tillis,Thom Tillis,Thom Tillis,SenThomTillis,2147483647,Republican,NC,Senator,official,NA,NA,1,TRUE,TRUE,T000476,M,S4NC00162,82,S
+Thom,Tillis,Thom Tillis,Thom Tillis,ThomTillis,22195441,Republican,NC,Senator,campaign,NA,NA,1,TRUE,TRUE,T000476,M,S4NC00162,82,S
+Tim,Scott,Tim Scott,Tim Scott,votetimscott,81191343,Republican,SC,Senator,campaign,NA,NA,1,TRUE,TRUE,S001184,M,S4SC00240,83,S
+Tim,Scott,Tim Scott,Tim Scott,SenatorTimScott,217543151,Republican,SC,Senator,official,NA,NA,1,TRUE,TRUE,S001184,M,S4SC00240,83,S
+Tina,Smith,Tina Smith,Tina Smith,SenTinaSmith,941000686275387400,Democrat,MN,Senator,official,NA,NA,1,TRUE,TRUE,S001203,F,S8MN00578,99,S
+Tina,Smith,Tina Smith,Tina Smith,TinaSmithMN,47724293,Democrat,MN,Senator,campaign,NA,NA,1,TRUE,TRUE,S001203,F,S8MN00578,99,S
+Todd,Young,Todd C. Young,Todd Young,SenToddYoung,234128524,Republican,IN,Senator,official,NA,NA,1,TRUE,TRUE,Y000064,M,S6IN00191,83,S
+Todd,Young,Todd C. Young,Todd Young,ToddYoungIN,59969802,Republican,IN,Senator,campaign,NA,NA,1,TRUE,TRUE,Y000064,M,S6IN00191,83,S
+Tom,Cotton,Tom Cotton,Tom Cotton,SenTomCotton,968650362,Republican,AR,Senator,official,NA,NA,1,TRUE,TRUE,C001095,M,S4AR00103,82,S
+Tom,Cotton,Tom Cotton,Tom Cotton,TomCottonAR,343041182,Republican,AR,Senator,campaign,NA,NA,1,TRUE,TRUE,C001095,M,S4AR00103,82,S
+Tommy,Tuberville,Tommy Tuberville,Tommy Tuberville,SenTuberville,1345739193721487400,Republican,AL,Senator,official,NA,NA,1,TRUE,TRUE,T000278,M,S0AL00230,00,S
+Tommy,Tuberville,Tommy Tuberville,Tommy Tuberville,TTuberville,110798061,Republican,AL,Senate Candidate,campaign,NA,NA,1,TRUE,TRUE,T000278,M,S0AL00230,NA,S
